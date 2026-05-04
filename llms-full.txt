@@ -1,0 +1,51 @@
+# Geotecnia1 — Porto Alegre
+
+> Geotechnical engineering services in Porto Alegre, Brasil.
+
+## Services
+- [Ancoragens](https://porto-alegre.geotecnia1.org/ancoragens/)
+- [Cbr Viario](https://porto-alegre.geotecnia1.org/cbr-viario/)
+- [Colunas Brita](https://porto-alegre.geotecnia1.org/colunas-brita/)
+- [Densidade Cone Areia](https://porto-alegre.geotecnia1.org/densidade-cone-areia/)
+- [Ensaio Cpt](https://porto-alegre.geotecnia1.org/ensaio-cpt/)
+- [Ensaios Proctor](https://porto-alegre.geotecnia1.org/ensaios-proctor/)
+- [Escavacoes](https://porto-alegre.geotecnia1.org/escavacoes/)
+- [Escavacoes Profundas](https://porto-alegre.geotecnia1.org/escavacoes-profundas/)
+- [Estabilidade Taludes](https://porto-alegre.geotecnia1.org/estabilidade-taludes/)
+- [Estacas](https://porto-alegre.geotecnia1.org/estacas/)
+- [Fundacoes](https://porto-alegre.geotecnia1.org/fundacoes/)
+- [Geotecnia Viaria](https://porto-alegre.geotecnia1.org/geotecnia-viaria/)
+- [Granulometria](https://porto-alegre.geotecnia1.org/granulometria/)
+- [Injecoes](https://porto-alegre.geotecnia1.org/injecoes/)
+- [Investigacao](https://porto-alegre.geotecnia1.org/investigacao/)
+- [Isolamento Sismico](https://porto-alegre.geotecnia1.org/isolamento-sismico/)
+- [Lab In Situ](https://porto-alegre.geotecnia1.org/lab-in-situ/)
+- [Laboratorio](https://porto-alegre.geotecnia1.org/laboratorio/)
+- [Limites Atterberg](https://porto-alegre.geotecnia1.org/limites-atterberg/)
+- [Liquefacao](https://porto-alegre.geotecnia1.org/liquefacao/)
+- [Masw](https://porto-alegre.geotecnia1.org/masw/)
+- [Melhoramento](https://porto-alegre.geotecnia1.org/melhoramento/)
+- [Microzoneamento Sismico](https://porto-alegre.geotecnia1.org/microzoneamento-sismico/)
+- [Monitoramento Escavacoes](https://porto-alegre.geotecnia1.org/monitoramento-escavacoes/)
+- [Muros Contencao](https://porto-alegre.geotecnia1.org/muros-contencao/)
+- [Pavimento Flexivel](https://porto-alegre.geotecnia1.org/pavimento-flexivel/)
+- [Pavimento Rigido](https://porto-alegre.geotecnia1.org/pavimento-rigido/)
+- [Permeabilidade In Situ](https://porto-alegre.geotecnia1.org/permeabilidade-in-situ/)
+- [Pocos Inspecao](https://porto-alegre.geotecnia1.org/pocos-inspecao/)
+- [Radiers](https://porto-alegre.geotecnia1.org/radiers/)
+- [Refracao Sismica](https://porto-alegre.geotecnia1.org/refracao-sismica/)
+- [Resistividade](https://porto-alegre.geotecnia1.org/resistividade/)
+- [Sapatas](https://porto-alegre.geotecnia1.org/sapatas/)
+- [Sismica](https://porto-alegre.geotecnia1.org/sismica/)
+- [Sondagens Spt](https://porto-alegre.geotecnia1.org/sondagens-spt/)
+- [Taludes](https://porto-alegre.geotecnia1.org/taludes/)
+- [Triaxial](https://porto-alegre.geotecnia1.org/triaxial/)
+- [Tuneis Solo Mole](https://porto-alegre.geotecnia1.org/tuneis-solo-mole/)
+- [Vibrocompactacao](https://porto-alegre.geotecnia1.org/vibrocompactacao/)
+
+## Contact
+- Website: https://porto-alegre.geotecnia1.org/
+
+## About
+This site provides geotechnical engineering services in Porto Alegre, Brasil.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
