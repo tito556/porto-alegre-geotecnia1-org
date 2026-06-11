@@ -14,6 +14,7 @@
 - [Estabilidade Taludes](https://porto-alegre.geotecnia1.org/estabilidade-taludes/)
 - [Estacas](https://porto-alegre.geotecnia1.org/estacas/)
 - [Fundacoes](https://porto-alegre.geotecnia1.org/fundacoes/)
+- [Geofisica](https://porto-alegre.geotecnia1.org/geofisica/)
 - [Geotecnia Viaria](https://porto-alegre.geotecnia1.org/geotecnia-viaria/)
 - [Granulometria](https://porto-alegre.geotecnia1.org/granulometria/)
 - [Injecoes](https://porto-alegre.geotecnia1.org/injecoes/)
